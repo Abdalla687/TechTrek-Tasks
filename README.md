@@ -1,6 +1,6 @@
-# TechTree Internship Tasks
+# TechTrek Internship Tasks
 
-Welcome to my TechTree internship repository.
+Welcome to my TechTrek internship repository.
 
 This repository contains all the tasks and projects I completed during my internship. Each task represents a step in improving my Python and Data Analysis skills through hands-on practice with real datasets.
 
@@ -12,6 +12,8 @@ This repository contains all the tasks and projects I completed during my intern
 - Data Filtering & Selection
 - Missing Value Handling
 - Business Insights & Recommendations
+- Machine Learning
+- Deep Learning
 
 ## Structure
 
